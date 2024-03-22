@@ -1,37 +1,29 @@
-🚀 About Me:
-I’m Aiden Weatherbee, an aspiring Space Engineer currently pursuing my Bachelor’s degree at York University, with an expected graduation in 2025. My passion lies in the intersection of machine learning, robotics, and space applications. I’m particularly interested in the development of navigation and guidance systems for spacecraft.
+💫 About Me:
+Currently working on finishing my undergraduate degree in Space Engineering at York University. My research is mainly in machine learning and robotics for space applications, with a focus on developing spacecraft navigation and guidance systems.
 
-🎓 Education:
-York University: Pursuing a Bachelor of Science in Space Engineering (Expected Graduation: 2025)
-Newbridge Academy: Received a full scholarship (Combined Athletic and Academic) for grade 12.
-🛰️ Research Experience:
-LURA Research with Dr. Zhu, York University: Developed vision code for spacecraft position estimation and gained extensive experience in robotics. I was the only undergraduate in the Smart Art program.
-RAY Position with Dr. Zhu, York University: Enhanced vision code for more accurate and computationally efficient position estimation. Collaborated with 2 PhD candidates to autonomously capture spacecraft. Presented monthly updates to MDA and CSA regarding my research.
-ESSENCE CubeSat Mission: Co-led the mechanical team in designing a 3u CubeSat with the objective of testing a Canadian developed camera and a solar energetic proton detector. Responsibilities included component selection, CAD modeling, spacecraft layout, budgeting, and thermal simulation. I was chosen for CSA training (canceled due to COVID).
-🔭 Independent Research:
-Acquired an 8-inch telescope and equipment to perform spectral analysis. Currently developing Python code to process and analyze the spectra of stars.
-Building a 1-meter aperture radio astronomy telescope for hydrogen line applications and for receiving satellite images.
-💻 Tech Stack:
-!Keras !Matplotlib !NumPy !Pandas !Plotly !PyTorch !TensorFlow !Scipy !scikit-learn !ROS !Python
+# 💻 Tech Stack:
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aidenweatherbee&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aidenweatherbee&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aidenweatherbee&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-📊 GitHub Stats:
-!<br/> !<br/> !
+---
 
-🚀 Projects (In Progress)
-Spacecraft Position Estimation: Developing computer vision algorithms for spacecraft navigation in challenging space environments. Project Link
-Astrophysical Spectral Analysis: Building Python tools to process and analyze astronomical spectra, aiming to uncover insights into stellar composition and behavior. Project Link
-Radio Telescope Project: Designing and constructing a radio telescope for hydrogen line observations and satellite image reception.
-💫 Looking for Opportunities
-I’m actively exploring opportunities within the space technology field. If you’d like to discuss collaborations, research, or anything space-related, feel free to reach out!
+## 🚀 Projects  *(In Progress)*
 
-📫 Get in Touch
-Email: aidenweatherbee@hotmail.com
-Website/Portfolio
-!
+* **Spacecraft Position Estimation:** Developing computer vision algorithms for spacecraft navigation in challenging space environments.  [Project Link](link-to-repo-once-started)
+* **Astrophysical Spectral Analysis:**  Building Python tools to process and analyze astronomical spectra, aiming to uncover insights into stellar composition and behavior. [Project Link](link-to-repo-once-started)
+* **Radio Telescope Project:** Designing and constructing a radio telescope for hydrogen line observations and satellite image reception.
 
-🌳 Other Experiences
-Soccer: Traveled to Germany, United States, Italy, and Switzerland. Tried out and made several different professional and semi-professional soccer teams before choosing to pursue my passion for space.
-Reforestation: Planted over 100,000 trees as the top planter at Brinkman Reforestation in Summer 2020.
-Construction: Worked on numerous projects as a carpenter at Avondale, Halifax from 2016 to 2023.
-Volunteer Soccer Coach: Coached children aged 4 to 6 years old at Prospect Road Community Center, Brookside.
+## 💫 Looking for Opportunities
+
+I'm actively exploring opportunities within the space technology field. If you'd like to discuss collaborations, research, or anything space-related, feel free to reach out!  
+
+## 📫 Get in Touch
+
+* Email: aidenweatherbee@hotmail.com
+* [Website/Portfolio](Add a link if you build one)
+
+[![](https://visitcount.itsvg.in/api?id=aidenweatherbee&icon=0&color=0)](https://visitcount.itsvg.in)
 
