@@ -23,6 +23,18 @@
 - **Astrophysical Spectral Analysis**: Building Python tools to process and analyze astronomical spectra. [Project Link](link-to-repo-once-started)
 - **Radio Telescope Project**: Designing and constructing a radio telescope for hydrogen line observations and satellite image reception. [Project Link](link-to-repo-once-started)
 - **Zero Gravity Pathplanning**: Working on using reinforcement learning in a zero gravity environment for robotic arm pathplanning and collision avoidance. [Project Link](link-to-repo-once-started)
+
+## 💡 Skills
+
+- **Programming Languages**: Python, MATLAB
+- **Machine Learning Frameworks**: TensorFlow, Keras, PyTorch
+- **Data Analysis Libraries**: NumPy, Pandas, Scipy, scikit-learn
+- **Visualization Tools**: Matplotlib, Plotly
+- **Robotics**: ROS, Kuka, Fanuc
+- **CAD Modelling**: Solid Works
+- **Spacecraft Analysis Tools**: Siemens NX (Thermal/Structural Analysis), STK (Orbital Analysis)
+
+
 ## 📫 Contact Me
 
 - Email: aidenweatherbee@hotmail.com
