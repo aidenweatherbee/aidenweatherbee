@@ -10,7 +10,7 @@
 ## 🚀 Experience
 
 - **LURA Research with Dr. Zhu, York University**: Developed vision code for spacecraft position estimation and gained extensive experience in robotics.
-- **RAY Position with Dr. Zhu, York University**: Enhanced vision code for more accurate and computationally efficient position estimation. also added orientation tracking
+- **RAY Position with Dr. Zhu, York University**: Enhanced vision code for more accurate and computationally efficient position estimation.Added spacecraft orientation tracking/estimation.
 - **ESSENCE CubeSat Mission**: Co-led the mechanical team in designing a 3u CubeSat with the objective to test a Canadian developed camera and a solar energetic proton detector.
 
 # 💻 Tech Stack:
