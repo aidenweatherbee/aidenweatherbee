@@ -10,7 +10,7 @@
 ## 🚀 Experience
 
 - **LURA Research with Dr. Zhu, York University**: Developed vision code for spacecraft position estimation and gained extensive experience in robotics.
-- **RAY Position with Dr. Zhu, York University**: Enhanced vision code for more accurate and computationally efficient position estimation.
+- **RAY Position with Dr. Zhu, York University**: Enhanced vision code for more accurate and computationally efficient position estimation. also added orientation tracking
 - **ESSENCE CubeSat Mission**: Co-led the mechanical team in designing a 3u CubeSat with the objective to test a Canadian developed camera and a solar energetic proton detector.
 
 ## 💻 Tech Stack
@@ -20,7 +20,7 @@
 ## 🌟 Current Projects
 
 - **Spacecraft Orientation and Position Tracking**: Developing vision code for spacecraft position and orientation tracking. [Project Link](https://github.com/aidenweatherbee/SatTracking.git)
-- **Exoplanet Transit Analysis**: Building Python skills to process and analyze exoplanet transits spectra. [Project Link](link-to-repo-once-started)
+- **Exoplanet Transit Analysis**: Building Python skills to process and analyze exoplanet transits. [Project Link](link-to-repo-once-started)
 - **Radio Telescope Project**: Designing and constructing a radio telescope for hydrogen line observations and satellite image reception. [Project Link](link-to-repo-once-started)
 - **Zero Gravity Pathplanning**: Working on using reinforcement learning in a zero gravity environment for robotic arm pathplanning and collision avoidance. [Project Link](link-to-repo-once-started)
 
