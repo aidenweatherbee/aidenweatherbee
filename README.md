@@ -20,7 +20,7 @@
 ## 🌟 Current Projects
 
 - **Spacecraft Orientation and Position Tracking**: Developing vision code for spacecraft position and orientation tracking. [Project Link](https://github.com/aidenweatherbee/SatTracking.git)
-- **Astrophysical Spectral Analysis**: Building Python tools to process and analyze astronomical spectra. [Project Link](link-to-repo-once-started)
+- **Exoplanet Transit Analysis**: Building Python skills to process and analyze exoplanet transits spectra. [Project Link](link-to-repo-once-started)
 - **Radio Telescope Project**: Designing and constructing a radio telescope for hydrogen line observations and satellite image reception. [Project Link](link-to-repo-once-started)
 - **Zero Gravity Pathplanning**: Working on using reinforcement learning in a zero gravity environment for robotic arm pathplanning and collision avoidance. [Project Link](link-to-repo-once-started)
 
