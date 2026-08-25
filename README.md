@@ -1,49 +1,38 @@
-# Aiden Weatherbee - Space Engineering Undergraduate
+# Aiden Weatherbee
 
-👋 Hello! I'm Aiden, a Space Engineering student at York University, set to graduate in 2025. I have a passion for Space, Astronomy, The search for extraterrestrial life, machine learning, and robotics for space applications. I've had the opportunity to work on several research projects and have developed a strong technical skill set through my academic and personal projects.
+**MSc Physics & Astronomy · Formation Flying, GNC & Exoplanet Instrumentation**
 
-## 🎓 Education
+I work where astrophysical questions become spacecraft requirements. My current research at York University develops dynamics, relative navigation, and formation control for space-based observatories that can characterize nearby terrestrial exoplanets.
 
-- **York University** - Bachelor of Science in Space Engineering (Expected Graduation: 2025)
-- **Newbridge Academy** - Full scholarship (Combined Athletic and Academic) to prep school for grade 12.
+[Research portfolio](https://aidenweatherbee.github.io/Astronomy_image_gallery/) · [Publications](https://aidenweatherbee.github.io/Astronomy_image_gallery/publications.html) · [Research CV](https://aidenweatherbee.github.io/Astronomy_image_gallery/resume.html) · [Email](mailto:aidenweatherbee@hotmail.com)
 
-## 🚀 Experience
+## Current research
 
-- **LURA Research with Dr. Zhu, York University**: Developed vision code for spacecraft position estimation and gained extensive experience in robotics.
-- **RAY Position with Dr. Zhu, York University**: Enhanced vision code for more accurate and computationally efficient position estimation.Added spacecraft orientation tracking/estimation.
-- **ESSENCE CubeSat Mission**: Co-led the mechanical team in designing a 3u CubeSat with the objective to test a Canadian developed camera and a solar energetic proton detector.
+### MINI-X — a formation-flying precursor to LIFE
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Astropy](https://img.shields.io/badge/Astropy-%231470A1.svg?style=for-the-badge&logoColor=white)
-![Photoutils](https://img.shields.io/badge/Photoutils-%230072C6.svg?style=for-the-badge&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![SolidWorks](https://img.shields.io/badge/SolidWorks-%23FF0000.svg?style=for-the-badge&logoColor=white)
-![STK](https://img.shields.io/badge/STK-%23000080.svg?style=for-the-badge&logoColor=white)
-![SiemensNX](https://img.shields.io/badge/SiemensNX-%2300BFFF.svg?style=for-the-badge&logoColor=white)
+I conceived and lead an end-to-end study of a five-spacecraft mid-infrared nulling interferometer at Sun–Earth L2.
 
+- built a high-fidelity, six-degree-of-freedom simulation in Basilisk
+- implemented a CR3BP-derived LQI controller and conventional PD baseline
+- evaluated 144 controller, rotation, and formation-geometry cases
+- reduced the reported 95th-percentile position-error metric from **22.68 mm to 1.65 mm**
+- identified a **3.41× propellant penalty** for out-of-plane beam-combiner placement
 
-## 🌟 Current Projects
-- **Spacecraft Orientation and Position Tracking**: Developing vision code for spacecraft position and orientation tracking. [Project Link](https://github.com/aidenweatherbee/SatTracking.git)
-- **Exoplanet Transit Analysis**: Building Python skills to process and analyze exoplanet transits. [Project Link](https://github.com/aidenweatherbee/ObservingProject.git)
-- **Radio Telescope Project**: Designing and constructing a radio telescope for hydrogen line observations and satellite image reception. [Project Link](https://drive.google.com/drive/folders/1ZYrpLa_iWMGNS3I1GX6hoJSeYFBmpSc0?usp=sharing)
-- **Zero Gravity Pathplanning**: Working on using reinforcement learning in a zero gravity environment for robotic arm pathplanning and collision avoidance. [Project Link](https://github.com/aidenweatherbee/RoboticPathPlanning.git)
+[MINI-X case study](https://aidenweatherbee.github.io/Astronomy_image_gallery/minix.html) · [AAS 26-967 paper](https://aidenweatherbee.github.io/Astronomy_image_gallery/minix/MINI-X_AAS_paper.pdf) · [Conference talk](https://youtu.be/JIrqM7kMYiM)
 
-## 💡 Skills
+## Selected research outputs
 
-- **Programming Languages**: Python, MATLAB
-- **Machine Learning Frameworks**: TensorFlow, Keras, PyTorch
-- **Data Analysis Libraries**: NumPy, Pandas, Scipy, scikit-learn
-- **Visualization Tools**: Matplotlib, Plotly
-- **Robotics**: ROS, Kuka, Fanuc
-- **CAD Modelling**: Solid Works
-- **Spacecraft Analysis Tools**: Siemens NX (Thermal/Structural Analysis), STK (Orbital Analysis)
+- **First author:** A. Weatherbee, S. Rugheimer, and M. C. F. Bazzocchi, “MINI-X: A Formation-Flying Precursor for the LIFE Mission,” AAS/AIAA Astrodynamics Specialist Conference, 2026, paper AAS 26-967.
+- **Co-author:** S. Rugheimer, A. Weatherbee, et al., “The Large Interferometer For Exoplanets (LIFE): The Case for a Large Mid-Infrared Space Mission,” [arXiv:2607.21683](https://arxiv.org/abs/2607.21683), 2026.
+- **Invited speaker:** “The Shock of Discovery: JWST, Exoplanet Science, and AICO,” Royal Astronomical Society of Canada, Toronto Centre, 2025.
 
+## Additional work
 
-## 📫 Contact Me
+- [Spacecraft proximity-operations vision](https://github.com/aidenweatherbee/SatTracking) — RealSense, YOLOv5, embedded data transport, and CNN-based relative-pose estimation
+- [Exoplanet transit photometry](https://aidenweatherbee.github.io/Astronomy_image_gallery/exoplanet_transit.html) — 1-m telescope observations and a Python FITS-to-light-curve workflow
+- [1420 MHz radio astronomy](https://aidenweatherbee.github.io/Astronomy_image_gallery/radio_astronomy.html) — a sub-$250 receiver used to detect Galactic neutral hydrogen
+- [NOVA stratospheric payload](https://aidenweatherbee.github.io/Astronomy_image_gallery/novaa.html) — camera trade study, onboard compute, and data-capture architecture
 
-- Email: aidenweatherbee@hotmail.com
+## Research directions
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aidenweatherbee&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-[![](https://visitcount.itsvg.in/api?id=aidenweatherbee&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
+Distributed space systems · spacecraft autonomy and estimation · formation control · nulling interferometry · exoplanet instrumentation · science-driven mission design
